@@ -1,0 +1,51 @@
+﻿<Window x:Class="SystemOnChip.Memory_Addressing"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SystemOnChip"
+        mc:Ignorable="d"
+        Title="Memory_Addressing" Height="499" Width="957.5" MaxWidth="958" MaxHeight="499">
+    <Window.Background>
+        <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.ActiveCaptionColorKey}}"/>
+    </Window.Background>
+    <RichTextBox HorizontalAlignment="Left" Height="429" Margin="18,20,0,0" VerticalAlignment="Top" Width="904">
+        <FlowDocument>
+            <Paragraph FontSize="12" FontFamily="Segoe UI" Margin="0" TextAlignment="Left">
+                <Span Foreground="Black" FontWeight="Bold">
+                    <Run Text="Memory and Addressing:  "/>
+                </Span>
+                <Span Foreground="Black">
+                    <Run Text=" System on  a board includes  a memory management unit and cache hierarchy.  For an System-On-Chip, the conventional processor die model (processor + memory is on the same die) has evolved. Hence multiple robust homogeneous processor share the higher levels of a two or three level cache structure with the main memory off die on it's own multi die module. This solution offers a benefit to the DRAM memory process technology that differs from the standard microprocessor technology.  For applications whose memory size is bounded we can implement an integrated memory System-On-Chip "/>
+                </Span>
+                <Span Foreground="Black" FontWeight="Bold">
+                    <Run Text=". Addressing: The Architecture of Memory: "/>
+                </Span>
+                <Span Foreground="Black">
+                    <Run Text=" Virtual memory enables programs requiring larger storage than the physical memory to run and allows the separation of address spaces. When virtual addressing facilities are properly implemented and programmed, memory can be efficiently and securely accessed however the virtual memory is slower and hence a more complex memory management unit. Hence one of the most critical decisions (requirements) concerning an System-On-Chip design is the selection of the operating system and it's memory management functionality.    Examples of operating systems for SoC designs are uClinux, VXworks , Windows CE, Nucleus and MQX.    "/>
+                </Span>
+                <Span Foreground="Black" FontWeight="Bold">
+                    <Run Text="System Level Interconnection: "/>
+                </Span>
+                <Run Text=" With the bus based approach, two or more buses are employed in a system, the bus closest to the CPU has the highest bandwidth and the bus farthest from the CPU has the lowest bandwidth.   "/>
+                <Span Foreground="Black" FontWeight="Bold">
+                    <Run Text="Dealing with design complexity:  "/>
+                </Span>
+                <Span Foreground="Black">
+                    <Run Text=" The design effort must balance the anticipated volume of sales. One alternative is to purchase a design from third party which is referred to the sale of Intellectual Property (IP) . The use of IP reduces risk in the design and reduces the cost of the design. Hence noncritical and specialized processors are purchased as IP and are integrated into the design. Physical level IPs use all the features available in a process technology including circuit design and physical layout examples include analog IPs and mixed-signal IPs (SRAM, PLL) .Firm IPs are gate level designs. Soft IPs are logic level designs in synthesizable format and are directly applicable to standard cell technologies.  "/>
+                </Span>
+                <Span Foreground="Black" FontWeight="Bold">
+                    <Run Text="Reconfiguration:  "/>
+                </Span>
+                <Span Foreground="Black">
+                    <Run Text=" A reconfiguration device can also be sold as IP in which the cost and risk of fabrication is eliminated. The support for user customization would raise the unit cost.   The best known example of this approach is FPGA technology, it consists of a n (100,000) array of cells where each cell is a small lookup table, flip flop and an output selector, it can implement a custom processor. "/>
+                </Span>
+            </Paragraph>
+            <Paragraph FontSize="12" FontFamily="Segoe UI" Margin="0" TextAlignment="Left">
+                <Span Foreground="Black">
+                    <Run Text="The comparison between a processor on a chip and  system on  chip is provided, each one has it's own pros and cons. The area used by storage for processor on a chip is 80% cache where-as for an SoC it is 50% ROM/RAM, the clock frequency is 3.5Ghz for  processor on  a chip and 0.5Ghz for a SoC, the power is &gt;= 50W for a processor on a  chip while is &lt;=10W for an SoC .  For an SoC, the memory sizes and real time delay constraints can be anticipated, hence the clock frequency and power can be reduced.  The disadvantage of SoC compared to processor chips is available design time and intra die communications between functional units.  Types of caches include integrated , split caches, sectored cache, multilevel cache and write assembly cache. The main memory system is the principal design challenge it consists of all the memory chips needed to forward a cache line to the processor via the bus. "/>
+                </Span>
+            </Paragraph>
+        </FlowDocument>
+    </RichTextBox>
+</Window>

@@ -1,0 +1,20 @@
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\bin\Debug\SystemOnChip.exe.config
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\bin\Debug\SystemOnChip.exe
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\bin\Debug\SystemOnChip.pdb
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Debug\Interconnect.g.cs
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Debug\MainWindow.g.cs
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Debug\Memory Addressing.g.cs
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Debug\SoC Customizationxaml.g.cs
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Debug\App.g.cs
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Debug\SystemOnChip_MarkupCompile.cache
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Debug\SystemOnChip_MarkupCompile.lref
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Debug\Interconnect.baml
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Debug\MainWindow.baml
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Debug\Memory Addressing.baml
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Debug\SoC Customizationxaml.baml
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Debug\SystemOnChip.g.resources
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Debug\SystemOnChip.Properties.Resources.resources
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Debug\SystemOnChip.csproj.GenerateResource.cache
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Debug\SystemOnChip.csproj.CoreCompileInputs.cache
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Debug\SystemOnChip.exe
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Debug\SystemOnChip.pdb

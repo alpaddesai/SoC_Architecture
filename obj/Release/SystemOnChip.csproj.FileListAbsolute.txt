@@ -1,0 +1,20 @@
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\bin\Release\SystemOnChip.exe.config
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\bin\Release\SystemOnChip.exe
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\bin\Release\SystemOnChip.pdb
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Release\Interconnect.g.cs
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Release\MainWindow.g.cs
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Release\SoC Customizationxaml.g.cs
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Release\App.g.cs
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Release\SystemOnChip_MarkupCompile.cache
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Release\SystemOnChip_MarkupCompile.lref
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Release\Interconnect.baml
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Release\MainWindow.baml
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Release\SoC Customizationxaml.baml
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Release\SystemOnChip.g.resources
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Release\SystemOnChip.Properties.Resources.resources
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Release\SystemOnChip.csproj.GenerateResource.cache
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Release\SystemOnChip.csproj.CoreCompileInputs.cache
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Release\SystemOnChip.exe
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Release\SystemOnChip.pdb
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Release\Memory Addressing.g.cs
+C:\Users\ADG\source\repos\SystemOnChip\SystemOnChip\obj\Release\Memory Addressing.baml

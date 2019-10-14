@@ -13,3 +13,6 @@ The project focuses on providing an overview of System on Chip designs. For deta
 
 ## Soc Interconnection
 ![image](Interconnect.png)
+
+## 
+![image](NEU_MS.png)

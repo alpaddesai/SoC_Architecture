@@ -11,6 +11,6 @@ The project focuses on providing an overview of System on Chip designs. For deta
 ## SoC Customization
 ![image](SoCCustomization.png)
 
-## Soc Interconnection
+## SoC Interconnection
 ![image](Interconnect.png)
 

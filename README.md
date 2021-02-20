@@ -14,5 +14,7 @@ The project focuses on providing an overview of System on Chip designs. For deta
 ## SoC Interconnection
 ![image](Interconnect.png)
 
+## Mixed-signal circuit design 
+![image](image.png)
 
 Advanced knowledge reference: https://github.com/alpaddesai/PowerElectronics, https://github.com/alpaddesai/ComputerArchitecture,  https://github.com/alpaddesai/AnalogDesign,  https://github.com/alpaddesai/ChipDesign and https://github.com/alpaddesai/SystemLevelDesignProductPortfolioIdea

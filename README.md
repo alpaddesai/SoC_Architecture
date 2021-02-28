@@ -17,4 +17,4 @@ The project focuses on providing an overview of System on Chip designs. For deta
 ## Mixed-signal circuit design 
 ![image](image.png)
 
-Advanced knowledge reference: https://github.com/alpaddesai/SystemLevelDesignProductPortfolioIdea
+Advanced knowledge reference: https://github.com/alpaddesai/SystemLevelDesignProductPortfolioIdea and https://github.com/alpaddesai/AnalogDesign.

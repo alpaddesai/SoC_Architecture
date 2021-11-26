@@ -14,7 +14,4 @@ The project focuses on providing an overview of System on Chip designs. For deta
 ## SoC Interconnection
 ![image](Interconnect.png)
 
-## CUDA Programming
-![image](CUDAProgramming.jpg)
-
 Advanced knowledge reference: https://github.com/alpaddesai/ComputerArchitecture

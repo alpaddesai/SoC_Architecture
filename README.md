@@ -14,4 +14,6 @@ The project focuses on providing an overview of System on Chip designs. For deta
 ## SoC Interconnection
 ![image](Interconnect.png)
 
+![image](USCopyrightCertificate.png)
+
 Advanced knowledge reference: https://github.com/alpaddesai/ComputerArchitecture and https://github.com/alpaddesai/FirmwareDesign

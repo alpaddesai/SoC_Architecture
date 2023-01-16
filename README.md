@@ -18,4 +18,4 @@ The project focuses on providing an overview of System on Chip designs. For deta
 
 ![image](Ethics.jpg)
 
-Advanced knowledge reference: https://github.com/alpaddesai/ComputerArchitecture and https://github.com/alpaddesai/FirmwareDesign
+Advanced knowledge reference: https://github.com/alpaddesai/ArchitecturalProductDesign
